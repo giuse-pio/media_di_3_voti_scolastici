@@ -1,0 +1,3 @@
+C:/Users/giupe/CLionProjects/media di 3 voti scolastici/cmake-build-debug/CMakeFiles/media_di_3_voti_scolastici.dir
+C:/Users/giupe/CLionProjects/media di 3 voti scolastici/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/giupe/CLionProjects/media di 3 voti scolastici/cmake-build-debug/CMakeFiles/rebuild_cache.dir
